@@ -1,0 +1,12 @@
+.container{
+    
+    width: 50%;
+    padding: 100px;
+    background-image: url(pic.jfif);
+    
+    
+
+}
+.my{
+   display: flex;
+}
